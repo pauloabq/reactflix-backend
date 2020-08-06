@@ -6,7 +6,7 @@
   "scripts": {
     "build": "yarn tsc",
     "start": "node ./dist/server.js",
-    "start:dev": "ts-node server.ts"
+    "start:dev": "ts-node ./src/server.ts"
   },
   "devDependencies": {
     "ts-node": "^8.10.2",
