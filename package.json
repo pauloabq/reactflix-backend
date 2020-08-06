@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "start": "node ./dist/server.js",
-    "start:dev": "ts-node server.ts"
+    "start:dev": "ts-node server.ts",
+    "postinstall": "yarn build"
   },
   "devDependencies": {
     "ts-node": "^8.10.2",
