@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Front-end",
+            "descricao": "Vídeos sobre front-end",
+            "cor": "#6bd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Back-end",
+            "descricao": "Vídeos sobre back-end",
+            "cor": "#ebd1ff"
+        }
+    ]
+}
